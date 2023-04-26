@@ -2,4 +2,4 @@
 
 1. UIKit/Storyboard/MVC.
 
-![BMI](https://github.com/ek-zhitnikov/EKZhitnikov/blob/4e800e6eb0fa3b17f70097bd93436a8ca89df967/Video/BMI%20Calculator.mov)
+![BMI](https://github.com/ek-zhitnikov/EKZhitnikov/blob/17ad528085ddd0f541701b8707c683861c4b651a/Video/BMI%20Calculator.gif)
